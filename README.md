@@ -6,8 +6,8 @@ This website will include all the reading notes for **201** course
 
 Read number  |  Link
 ------------ | ------------
-Read 01      |  [Link 1]()
-Read 02      |  [Link 2]()
+Read 01      |  [Link 1](https://daoudnazek.github.io/reading-notes/Read02)
+Read 02      |  [Link 2](https://daoudnazek.github.io/reading-notes/Read03)
 Read 03      |  [Link 3]()
 Read 04      |  [Link 4]()
 Read 05      |  [Link 5]()
