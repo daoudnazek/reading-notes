@@ -44,8 +44,8 @@ Images take longer time to load than html , specifing the width and height will 
 
 * **Figure and Figure Caption** 
 
-<Figure> : used to insert images with caption and the two are associated.
-<figcaption> : to allow the web page to add caption for the image.
+Figure : used to insert images with caption and the two are associated.
+figcaption : to allow the web page to add caption for the image.
 
 
 ## Color
@@ -82,7 +82,7 @@ Used to set the background color of the box for each elemeent.
 
 ## Text
 
-**ofnt Family** : specify the type face , the value is the name of the type face.
+**font Family** : specify the type face , the value is the name of the type face.
 
 **font-size** 
 
