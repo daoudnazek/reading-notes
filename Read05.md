@@ -1,6 +1,6 @@
 # HTML AND CSS 
 
-## Imsges
+## Images
 
 Images will make the website more attractive , professional, and engaging.
 
