@@ -6,6 +6,8 @@ CSS treats each html element as it has it own box, which either block level or i
 
 ## Controlling the position of an element
 
+![positioning](https://miro.medium.com/max/1200/1*eQ1bD3AL6BXU6-dszAxd1g.png)
+
 **Normal Flow** : (position:static) the normal position.
 
 **Relative Positioning** : (position:relative) moves in relation with it would have been in normal flow.
