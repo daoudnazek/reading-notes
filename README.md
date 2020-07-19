@@ -1,6 +1,6 @@
 # Reading Notes
 
-This website will include all the reading notes for all courses  
+**This website will include all the reading notes for all courses**  
 
 ## Code 102 - Intro to Software Development
 [102](https://daoudnazek.github.io/reading-notes)
