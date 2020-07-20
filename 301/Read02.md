@@ -2,6 +2,8 @@
 
 ## jQuery 
 
+![jQuery](https://www.tutorialrepublic.com/lib/images/jquery-illustration.png)
+
 **jQuery** offers a simple way to preform javascript tasks quickly in all browsers without problems.It is a JavaScript file that we include in our web pages.
 
 - Select Elements : $('li')
